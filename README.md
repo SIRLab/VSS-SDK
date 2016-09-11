@@ -5,19 +5,24 @@
 VSS-SDK é *Suite Development Kit* que auxília na construção de um time de futebol de robôs para a categoria *IEEE Very Small Size [Soccer]*, 
 o projeto é constituído de: 
 
-### [VSS-Vision][vision]: [![badge](https://img.shields.io/badge/contributors-5-blue.svg)][badges] 
+### [VSS-Vision][vision]:
+[![badge](https://img.shields.io/badge/contributors-5-blue.svg)][badges] 
 Sistema de Visão Computacional feito com base na categoria IEEE Very Small Size [Soccer] que reconhece e rastreia a bola e os robôs em campo;
 
-### [VSS-Simulator][simulator]: [![badge](https://img.shields.io/badge/contributors-2-blue.svg)][badges] 
+### [VSS-Simulator][simulator]:
+[![badge](https://img.shields.io/badge/contributors-2-blue.svg)][badges] 
 Simulador constituído de um campo e de 6 robôs nos padrões da categoria IEEE Very Small Size [Soccer];
 
-### [VSS-Viewer][viewer]: [![badge](https://img.shields.io/badge/contributors-1-blue.svg)][badges]  
+### [VSS-Viewer][viewer]:
+[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][badges]  
 Visualizador de estados em 3D que incorpora os ambientes gerados pelos projetos VSS-Vision e VSS-Simulator;
 
-### [VSS-SampleStrategy][sample]: [![badge](https://img.shields.io/badge/contributors-1-blue.svg)][badges] 
+### [VSS-SampleStrategy][sample]:
+[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][badges] 
 Demonstração de como utilizar nossa API e comunicar uma estratégia de jogo com o VSS-Vision e VSS-Simulator, além de como enviar comandos para robôs reais;
 
-### [VSS-Joystick][joystick]: [![badge](https://img.shields.io/badge/contributors-1-blue.svg)][badges] 
+### [VSS-Joystick][joystick]:
+[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][badges] 
 Demonstração de como utilizar um controle de Playstation 3 (Dualshock 3) para comunicar-se com o VSS-Simulator ou com robôs reais;
 
 Instalando, Inicializando e Atualizando
