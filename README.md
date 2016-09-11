@@ -6,27 +6,32 @@ VSS-SDK é *Suite Development Kit* que auxília na construção de um time de fu
 o projeto é constituído de: 
 
 ### [VSS-Vision][vision]:
-[![badge](https://img.shields.io/badge/contributors-5-blue.svg)][badges] 
+[![badge](https://img.shields.io/badge/contributors-5-blue.svg)][https://github.com/SIRLab/VSS-Vision/graphs/contributors]
+[![Build Status](https://travis-ci.org/SIRLab/VSS-Vision.svg?branch=master)][https://travis-ci.org/SIRLab/VSS-Vision]
 
 Sistema de Visão Computacional feito com base na categoria IEEE Very Small Size [Soccer] que reconhece e rastreia a bola e os robôs em campo;
 
 ### [VSS-Simulator][simulator]:
-[![badge](https://img.shields.io/badge/contributors-2-blue.svg)][badges] 
+[![badge](https://img.shields.io/badge/contributors-2-blue.svg)][https://github.com/SIRLab/VSS-Simulator/graphs/contributors]
+[![Build Status](https://travis-ci.org/SIRLab/VSS-Simulator.svg?branch=master)][https://travis-ci.org/SIRLab/VSS-Simulator]
 
 Simulador constituído de um campo e de 6 robôs nos padrões da categoria IEEE Very Small Size [Soccer];
 
 ### [VSS-Viewer][viewer]:
-[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][badges]
+[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][https://github.com/SIRLab/VSS-Viewer/graphs/contributors]
+[![Build Status](https://travis-ci.org/SIRLab/VSS-Viewer.svg?branch=master)][https://travis-ci.org/SIRLab/VSS-Viewer]
 
 Visualizador de estados em 3D que incorpora os ambientes gerados pelos projetos VSS-Vision e VSS-Simulator;
 
 ### [VSS-SampleStrategy][sample]:
-[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][badges] 
+[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][https://github.com/SIRLab/VSS-SampleStrategy/graphs/contributors]
+[![Build Status](https://travis-ci.org/SIRLab/VSS-SampleStrategy.svg?branch=master)][https://travis-ci.org/SIRLab/VSS-SampleStrategy]
 
 Demonstração de como utilizar nossa API e comunicar uma estratégia de jogo com o VSS-Vision e VSS-Simulator, além de como enviar comandos para robôs reais;
 
 ### [VSS-Joystick][joystick]:
-[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][badges] 
+[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][https://github.com/SIRLab/VSS-Joystick/graphs/contributors]
+[![Build Status](https://travis-ci.org/SIRLab/VSS-Joystick.svg?branch=master)][https://travis-ci.org/SIRLab/VSS-Joystick]
 
 Demonstração de como utilizar um controle de Playstation 3 (Dualshock 3) para comunicar-se com o VSS-Simulator ou com robôs reais;
 
