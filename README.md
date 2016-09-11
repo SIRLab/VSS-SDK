@@ -6,32 +6,32 @@ VSS-SDK é *Suite Development Kit* que auxília na construção de um time de fu
 o projeto é constituído de: 
 
 ### [VSS-Vision][vision]:
-[![badge](https://img.shields.io/badge/contributors-5-blue.svg)][https://github.com/SIRLab/VSS-Vision/graphs/contributors]
-[![Build Status](https://travis-ci.org/SIRLab/VSS-Vision.svg?branch=master)][https://travis-ci.org/SIRLab/VSS-Vision]
+[![badge](https://img.shields.io/badge/contributors-5-blue.svg)][vision-con]
+[![Build Status](https://travis-ci.org/SIRLab/VSS-Vision.svg?branch=master)][vision-travis]
 
 Sistema de Visão Computacional feito com base na categoria IEEE Very Small Size [Soccer] que reconhece e rastreia a bola e os robôs em campo;
 
 ### [VSS-Simulator][simulator]:
-[![badge](https://img.shields.io/badge/contributors-2-blue.svg)][https://github.com/SIRLab/VSS-Simulator/graphs/contributors]
-[![Build Status](https://travis-ci.org/SIRLab/VSS-Simulator.svg?branch=master)][https://travis-ci.org/SIRLab/VSS-Simulator]
+[![badge](https://img.shields.io/badge/contributors-2-blue.svg)][simulator-con]
+[![Build Status](https://travis-ci.org/SIRLab/VSS-Simulator.svg?branch=master)][simulator-travis]
 
 Simulador constituído de um campo e de 6 robôs nos padrões da categoria IEEE Very Small Size [Soccer];
 
 ### [VSS-Viewer][viewer]:
-[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][https://github.com/SIRLab/VSS-Viewer/graphs/contributors]
-[![Build Status](https://travis-ci.org/SIRLab/VSS-Viewer.svg?branch=master)][https://travis-ci.org/SIRLab/VSS-Viewer]
+[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][viewer-con]
+[![Build Status](https://travis-ci.org/SIRLab/VSS-Viewer.svg?branch=master)][viewer-travis]
 
 Visualizador de estados em 3D que incorpora os ambientes gerados pelos projetos VSS-Vision e VSS-Simulator;
 
 ### [VSS-SampleStrategy][sample]:
-[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][https://github.com/SIRLab/VSS-SampleStrategy/graphs/contributors]
-[![Build Status](https://travis-ci.org/SIRLab/VSS-SampleStrategy.svg?branch=master)][https://travis-ci.org/SIRLab/VSS-SampleStrategy]
+[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][sample-con]
+[![Build Status](https://travis-ci.org/SIRLab/VSS-SampleStrategy.svg?branch=master)][sample-travis]
 
 Demonstração de como utilizar nossa API e comunicar uma estratégia de jogo com o VSS-Vision e VSS-Simulator, além de como enviar comandos para robôs reais;
 
 ### [VSS-Joystick][joystick]:
-[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][https://github.com/SIRLab/VSS-Joystick/graphs/contributors]
-[![Build Status](https://travis-ci.org/SIRLab/VSS-Joystick.svg?branch=master)][https://travis-ci.org/SIRLab/VSS-Joystick]
+[![badge](https://img.shields.io/badge/contributors-1-blue.svg)][joystick-con]
+[![Build Status](https://travis-ci.org/SIRLab/VSS-Joystick.svg?branch=master)][joystick-travis]
 
 Demonstração de como utilizar um controle de Playstation 3 (Dualshock 3) para comunicar-se com o VSS-Simulator ou com robôs reais;
 
@@ -149,3 +149,15 @@ Configurando nas Distros
 
 [badges]: http://shields.io/
 [travis]: https://travis-ci.org/SIRLab/VSS-SDK
+
+[vision-travis]: https://travis-ci.org/SIRLab/VSS-Vision
+[simulator-travis]: https://travis-ci.org/SIRLab/VSS-Simulator
+[viewer-travis]: https://travis-ci.org/SIRLab/VSS-Viewer
+[sample-travis]: https://travis-ci.org/SIRLab/VSS-SampleStrategy
+[joystick-travis]: https://travis-ci.org/SIRLab/VSS-Joystick
+
+[vision-con]: https://github.com/SIRLab/VSS-Vision/graphs/contributors
+[simulator-con]: https://github.com/SIRLab/VSS-Simulator/graphs/contributors
+[viewer-con]: https://github.com/SIRLab/VSS-Viewer/graphs/contributors
+[sample-con]: https://github.com/SIRLab/VSS-SampleStrategy/graphs/contributors
+[joystick-con]: https://github.com/SIRLab/VSS-Joystick/graphs/contributors
