@@ -12,6 +12,8 @@ o projeto é constituído de:
 
 Sistema de Visão Computacional feito com base na categoria IEEE Very Small Size [Soccer] que reconhece e rastreia a bola e os robôs em campo;
 
+![screenshot 1](https://raw.githubusercontent.com/SIRLab/VSS-Vision/master/images/top2.png)
+
 ### [VSS-Simulator][simulator]:
 [![Build Status](https://travis-ci.org/SIRLab/VSS-Simulator.svg?branch=master)][simulator-travis]
 [![badge](https://img.shields.io/badge/contributors-2-blue.svg)][simulator-con]
