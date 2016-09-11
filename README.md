@@ -1,8 +1,6 @@
-VSS-SDK 
-=======
-[![GitHub release](https://img.shields.io/github/release/SIRLab/VSS-SDK.svg?maxAge=2592000)](https://github.com/SIRLab/VSS-SDK)
-[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/SIRLab/VSS-SDK.svg?maxAge=2592000)](https://github.com/SIRLab/VSS-SDK)
-[![Github Releases](https://img.shields.io/github/downloads/SIRLab/VSS-SDK/total.svg?maxAge=2592000)](https://github.com/SIRLab/VSS-SDK)
+# VSS-SDK 
+[![badge](https://img.shields.io/badge/Release-1.0.2-blue.svg)][badges]
+[![Build Status](https://travis-ci.org/SIRLab/VSS-SDK.svg?branch=beta)][travis]
 
 
 
@@ -97,17 +95,25 @@ Dependências
 | [Glut][glut]                              | Biblioteca de utilitários OpenGL                       |
 | [Bullet Physics][bullet]                  | Biblioteca de física                                   |
 
+Instalando no SOs
+-----------------
 
+<<<<<<< HEAD
 Configurando nas Distros
 ------------------------
 
+=======
+>>>>>>> f496aa28184e075fff5b0c83fd5f46d8b4f37674
 [![badge](https://img.shields.io/badge/Ubuntu-16.04-brightgreen.svg)][badges]
 [![badge](https://img.shields.io/badge/Ubuntu-14.04-brightgreen.svg)][badges]
 [![badge](https://img.shields.io/badge/Debian-8.2-brightgreen.svg)][badges]
 [![badge](https://img.shields.io/badge/Debian-8.5-yellow.svg)][badges]
 [![badge](https://img.shields.io/badge/Fedora-24-red.svg)][badges]
 [![badge](https://img.shields.io/badge/Mint-18-red.svg)][badges]
+<<<<<<< HEAD
 
+=======
+>>>>>>> f496aa28184e075fff5b0c83fd5f46d8b4f37674
 
 [vision]: https://github.com/SIRLab/VSS-Vision
 [simulator]: https://github.com/SIRLab/VSS-Simulator
