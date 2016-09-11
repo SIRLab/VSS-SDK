@@ -1,21 +1,24 @@
 # VSS-SDK 
-[![badge](https://img.shields.io/badge/Release-1.0.2-blue.svg)][badges]
+[![badge](https://img.shields.io/badge/Release-1.0.3-blue.svg)][badges]
 [![Build Status](https://travis-ci.org/SIRLab/VSS-SDK.svg?branch=beta)][travis]
-
-
 
 VSS-SDK é *Suite Development Kit* que auxília na construção de um time de futebol de robôs para a categoria *IEEE Very Small Size [Soccer]*, 
 o projeto é constituído de: 
 
-> [VSS-Vision][vision]: Sistema de Visão Computacional feito com base na categoria IEEE Very Small Size [Soccer] que reconhece e rastreia a bola e os robôs em campo;
+### [VSS-Vision][vision]: [![badge](https://img.shields.io/badge/contributors-5-blue.svg)][badges] 
+Sistema de Visão Computacional feito com base na categoria IEEE Very Small Size [Soccer] que reconhece e rastreia a bola e os robôs em campo;
 
-> [VSS-Simulator][simulator]: Simulador constituído de um campo e de 6 robôs nos padrões da categoria IEEE Very Small Size [Soccer];
+### [VSS-Simulator][simulator]:
+Simulador constituído de um campo e de 6 robôs nos padrões da categoria IEEE Very Small Size [Soccer];
 
-> [VSS-Viewer][viewer]: Visualizador de estados em 3D que incorpora os ambientes gerados pelos projetos VSS-Vision e VSS-Simulator;
+### [VSS-Viewer][viewer]:
+Visualizador de estados em 3D que incorpora os ambientes gerados pelos projetos VSS-Vision e VSS-Simulator;
 
-> [VSS-SampleStrategy][sample]: Demonstração de como utilizar nossa API e comunicar uma estratégia de jogo com o VSS-Vision e VSS-Simulator, além de como enviar comandos para robôs reais;
+### [VSS-SampleStrategy][sample]:
+Demonstração de como utilizar nossa API e comunicar uma estratégia de jogo com o VSS-Vision e VSS-Simulator, além de como enviar comandos para robôs reais;
 
-> [VSS-Joystick][joystick]:  Demonstração de como utilizar um controle de Playstation 3 (Dualshock 3) para comunicar-se com o VSS-Simulator ou com robôs reais;
+### [VSS-Joystick][joystick]:
+Demonstração de como utilizar um controle de Playstation 3 (Dualshock 3) para comunicar-se com o VSS-Simulator ou com robôs reais;
 
 Instalando, Inicializando e Atualizando
 ---------------------------------------
@@ -95,25 +98,16 @@ Dependências
 | [Glut][glut]                              | Biblioteca de utilitários OpenGL                       |
 | [Bullet Physics][bullet]                  | Biblioteca de física                                   |
 
-Instalando no SOs
------------------
 
-<<<<<<< HEAD
 Configurando nas Distros
 ------------------------
-
-=======
->>>>>>> f496aa28184e075fff5b0c83fd5f46d8b4f37674
 [![badge](https://img.shields.io/badge/Ubuntu-16.04-brightgreen.svg)][badges]
 [![badge](https://img.shields.io/badge/Ubuntu-14.04-brightgreen.svg)][badges]
 [![badge](https://img.shields.io/badge/Debian-8.2-brightgreen.svg)][badges]
 [![badge](https://img.shields.io/badge/Debian-8.5-yellow.svg)][badges]
 [![badge](https://img.shields.io/badge/Fedora-24-red.svg)][badges]
 [![badge](https://img.shields.io/badge/Mint-18-red.svg)][badges]
-<<<<<<< HEAD
 
-=======
->>>>>>> f496aa28184e075fff5b0c83fd5f46d8b4f37674
 
 [vision]: https://github.com/SIRLab/VSS-Vision
 [simulator]: https://github.com/SIRLab/VSS-Simulator
