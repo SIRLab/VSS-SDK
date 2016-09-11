@@ -139,3 +139,4 @@ Configurando nas Distros
 [bullet]: http://bulletphysics.org/wordpress/
 
 [badges]: http://shields.io/
+[travis]: https://travis-ci.org/SIRLab/VSS-SDK
