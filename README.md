@@ -32,6 +32,8 @@ Simulador constituído de um campo e de 6 robôs nos padrões da categoria IEEE 
 
 Visualizador de estados em 3D que incorpora os ambientes gerados pelos projetos VSS-Vision e VSS-Simulator;
 
+![screenshot 2](https://raw.githubusercontent.com/SIRLab/VSS-Viewer/master/images/top.png)
+
 ### [VSS-SampleStrategy][sample]:
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)][gpl3]
 [![Build Status](https://travis-ci.org/SIRLab/VSS-SampleStrategy.svg?branch=master)][sample-travis]
